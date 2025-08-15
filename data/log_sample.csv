@@ -1,0 +1,37 @@
+timestamp,level,message
+2025-08-12 10:01:23,INFO,User login succeeded
+2025-08-12 10:02:01,ERROR,Failed to connect to DB
+2025-08-12 10:03:55,WARNING,Low disk space
+2025-08-12 10:04:10,INFO,User logout
+2025-08-12 10:05:22,ERROR,Timeout occurred
+2025-08-12 10:06:45,INFO,User login succeeded
+2025-08-13 10:07:12,DEBUG,Memory usage checked
+2025-08-13 10:08:00,INFO,User logout
+2025-08-13 10:09:30,WARNING,CPU temperature high
+2025-08-13 10:01:23,INFO,User login succeeded
+2025-08-13 10:02:01,ERROR,Failed to connect to DB
+2025-08-13 10:03:55,WARNING,Low disk space
+2025-08-13 10:04:10,INFO,User logout
+2025-08-13 10:05:22,ERROR,Timeout occurred
+2025-08-13 10:06:45,INFO,User login succeeded
+2025-08-13 10:07:12,DEBUG,Memory usage checked
+2025-08-13 10:08:00,INFO,User logout
+2025-08-13 10:09:30,WARNING,CPU temperature high
+2025-08-14 10:01:23,INFO,User login succeeded
+2025-08-14 10:02:01,ERROR,Failed to connect to DB
+2025-08-14 10:03:55,WARNING,Low disk space
+2025-08-14 10:04:10,INFO,User logout
+2025-08-14 10:05:22,ERROR,Timeout occurred
+2025-08-14 10:06:45,INFO,User login succeeded
+2025-08-14 10:07:12,DEBUG,Memory usage checked
+2025-08-14 10:08:00,INFO,User logout
+2025-08-14 10:09:30,WARNING,CPU temperature high
+2025-08-14 10:01:23,INFO,User login succeeded
+2025-08-14 10:02:01,ERROR,Failed to connect to DB
+2025-08-14 10:03:55,WARNING,Low disk space
+2025-08-14 10:04:10,INFO,User logout
+2025-08-14 10:05:22,ERROR,Timeout occurred
+2025-08-14 10:06:45,INFO,User login succeeded
+2025-08-14 10:07:12,DEBUG,Memory usage checked
+2025-08-14 10:08:00,INFO,User logout
+2025-08-14 10:09:30,WARNING,CPU temperature high
